@@ -1,2 +1,5 @@
 .venv
 test.ipynb
+chromedriver.exe
+__pycache__/
+report.pdf

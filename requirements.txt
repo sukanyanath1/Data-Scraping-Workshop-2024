@@ -1,6 +1,9 @@
 beautifulsoup4
 requests
 pandas
-Scrapy
+scrapy
 selenium
 nltk
+jupyterlab
+webdriver_manager
+pdfminer
