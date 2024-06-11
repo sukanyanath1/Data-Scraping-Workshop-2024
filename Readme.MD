@@ -8,3 +8,5 @@ To get started, do the following steps
     ```python -m venv venv``` or ```py -m venv venv```
 5. Activate the environment
     ```.\.venv\Scripts\activate.ps1``` for powershell or ```source .venv/Scripts/activate``` for bash
+6. Install requirements
+    ```pip install -r requirements.txt```
